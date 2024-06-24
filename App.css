@@ -1,0 +1,8 @@
+/* Add this in App.css or a similar stylesheet */
+.bar-chart-container {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background: #f9f9f9;
+}
